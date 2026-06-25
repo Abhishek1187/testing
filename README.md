@@ -1,3 +1,8 @@
+DEPLOYED LINK - testing-apuu-dzsonhl9h-abhishek1187s-projects.vercel.app
+
+
+
+
 # LeadManager — AI-Powered Lead Intelligence
 
 A full-stack lead management system built with **Next.js 16**, **Supabase**, **Resend**, and **OpenAI**. Captures leads via a form, sends tracked emails, and displays real-time analytics.
